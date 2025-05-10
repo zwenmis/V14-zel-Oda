@@ -1,0 +1,9 @@
+{
+  "token": "Bot Tokeni",
+  "prefix": ".",
+  "voiceChannel":"Botun Bağlanacağı Ses Kanal IDsi",
+  "kategoriID":"Özel Odaların Oluşacağı Kategori IDsi",
+  "sunucuID":"Sunucu IDsi",
+  "odaOlusturID":"Özel Oda Oluşturma Ses Kanalının IDsi",
+  "odaSure":120000
+}
